@@ -28,7 +28,7 @@
     "lodash": "3.10.1",
     "prompt": "0.2.14",
     "rttc": "~9.3.0",
-    "waterline": "git+https://github.com/stuk88/waterline#f9bc0004665c7c91e28d8a81cc9f2c47ae75e176"
+    "waterline": "git+https://github.com/stuk88/waterline#05326f3cab609e034719a6c4477cbac023984f06"
   },
   "sails": {
     "isHook": true,
